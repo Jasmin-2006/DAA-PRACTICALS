@@ -1,6 +1,8 @@
-Summary
+## 📋 Summary
+
 This repository contains the implementation of fundamental sorting algorithms in C++, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. Each algorithm demonstrates a unique approach to organizing data in ascending order and helps in understanding the core concepts of sorting techniques. Along with the implementations, the project emphasizes important aspects such as time and space complexity, stability, in-place sorting, and the best, average, and worst-case performance of each algorithm. This repository serves as a useful learning resource for students, beginners, and anyone preparing for Data Structures and Algorithms (DSA), coding interviews, and competitive programming.
 
-🎯 Conclusion
-Sorting algorithms form the foundation of many advanced computer science concepts and play a significant role in designing efficient software applications. Through the implementation and comparison of different sorting techniques, this project provides a deeper understanding of how each algorithm works, where it performs best, and its limitations. Choosing the appropriate sorting algorithm depends on factors such as input size, memory usage, and execution time. Overall, this repository strengthens programming skills, builds a solid understanding of algorithmic thinking, and serves as an excellent reference for academic learning, technical interviews, and future software development projects.
+## 🎯 Conclusion
 
+Sorting algorithms form the foundation of many advanced computer science concepts and play a significant role in designing efficient software applications. Through the implementation and comparison of different sorting techniques, this project provides a deeper understanding of how each algorithm works, where it performs best, and its limitations. Choosing the appropriate sorting algorithm depends on factors such as input size, memory usage, and execution time. Overall, this repository strengthens programming skills, builds a solid understanding of algorithmic thinking, and serves as an excellent reference for academic learning, technical interviews, and future software development projects.
+```
