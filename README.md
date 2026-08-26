@@ -1,5 +1,3 @@
-Sure Jas 👍 Here is the **complete `README.md` for Practical 6**, matching the format we used for Practical 5, including **Aim, Objective, Theory, Algorithm, Program, Output, Complexity, Result, and Conclusion**.
-
 # Practical 6 – Implementation of Matrix Chain Multiplication Using Dynamic Programming
 
 ## Aim
